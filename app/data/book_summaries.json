@@ -1,0 +1,52 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "summary": "A dystopian story about a totalitarian regime that uses surveillance and propaganda to control its citizens. The protagonist, Winston Smith, secretly longs for freedom and truth."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "summary": "Bilbo Baggins, a comfortable hobbit, is swept into an unexpected adventure with thirteen dwarves and the wizard Gandalf to reclaim the Lonely Mountain from the dragon Smaug."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "summary": "Elizabeth Bennet navigates the complex world of 19th-century English society, where marriage and social status dominate daily life."
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "summary": "In the quiet village of King's Abbot, the wealthy Roger Ackroyd is found dead in his study, and everyone becomes a suspect."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "summary": "On the desert planet Arrakis, young Paul Atreides becomes embroiled in a struggle for control of the universe's most valuable substance."
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "summary": "Sixteen-year-old Hazel Grace Lancaster, living with terminal cancer, meets Augustus Waters at a cancer support group."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "summary": "Journalist Mikael Blomkvist teams up with the enigmatic hacker Lisbeth Salander to investigate a decades-old disappearance."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "summary": "Santiago, a young Andalusian shepherd, dreams of finding treasure in the Egyptian pyramids and embarks on a transformative journey."
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "summary": "When Amy Dunne disappears on her fifth wedding anniversary, her husband Nick becomes the prime suspect in what appears to be her murder."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "summary": "In the totalitarian Republic of Gilead, fertile women called Handmaids are forced into reproductive servitude for the ruling class."
+  }
+]
