@@ -1,0 +1,6 @@
+# === Core AI libraries ===
+openai>=1.14.2          # GPT chat + embeddings + tool calling
+chromadb>=0.4.22        # Vector store (RAG)
+
+# === Web UI ===
+streamlit>=1.35.0       # Web app framework
